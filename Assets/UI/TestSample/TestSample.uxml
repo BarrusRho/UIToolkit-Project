@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/UI/TestSample/TestSample.uss?fileID=7433441132597879392&amp;guid=309797c9e989e450f922525dda27e49c&amp;type=3#TestSample" />
+    <ui:VisualElement name="container" class="container" style="height: 450px;">
+        <ui:Button text="Button" name="myButton1" class="button" style="flex-direction: column; letter-spacing: 0; flex-grow: 0;" />
+        <ui:Button text="Button" name="myButton2" class="button" style="flex-direction: column; letter-spacing: 0; flex-grow: 0;" />
+        <ui:Button text="Button" name="myButton3" class="button" style="flex-direction: column; letter-spacing: 0; flex-grow: 0;" />
+    </ui:VisualElement>
+</ui:UXML>
