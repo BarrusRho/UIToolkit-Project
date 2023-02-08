@@ -1,2 +1,2 @@
 # UIToolkit-Project
-A basic project using the new Unity UIToolkit
+A project for creating Editor Tools using the new Unity UIToolkit
